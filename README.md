@@ -33,7 +33,6 @@ While our current implementation is functional, there are several areas for pote
 - **Question Grouping**: Develop methods to group related sub-questions or multi-part questions.
 - **Answer Extraction**: Extend the pipeline to also extract and associate answers with their corresponding questions.
 - **Metadata Extraction**: Implement extraction of metadata such as subject, difficulty level, or topic.
-- **GUI Development**: Create a user-friendly interface for easier use by non-technical users.
 - **Output Formats**: Provide options for different output formats (e.g., JSON, CSV) in addition to images.
 
 ## Installation and Usage
